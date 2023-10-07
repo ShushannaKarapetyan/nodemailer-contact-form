@@ -1,0 +1,8 @@
+# IDEs and editors
+/.idea
+
+# compiled output
+/node_modules
+
+# Environment variables
+.env
